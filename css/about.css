@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    /*border: 1px solid black;*/
+}
+
+#about-container{
+  align-items: center;
+  justify-content: center;
+  margin: 100px 0;
+}
+
+#about-container img{
+  margin: 30px;
+}
+
+#about-txt{
+  padding: 50px;
+  width: 55%;
+}

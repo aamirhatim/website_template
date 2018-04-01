@@ -1,0 +1,29 @@
+PROJECT NAME:
+Project
+
+PORTFOLIO IMAGE LOCATION:
+img/your_image.extension
+
+PROJECT LOCATION:
+projects/project_folder/project_name.php
+
+PORTFOLIO TILE DESCRIPTION:
+A one-line description of the project to put on the portfolio tile (home page)
+
+PORTFOLIO TILE 2ND LINE:
+Extra tile info (date, etc.)
+
+SHORT DESCRIPTION:
+A short description of the project for the project's page.
+
+VIDEO LINK ("none" will not show any video):
+none
+
+SKILLS:
+Add,skills,separated,by,commas
+
+CONCEPTS:
+Add,concepts,separated,by,commas
+
+GITHUB LINK ("none" will disable the link from appearing):
+none

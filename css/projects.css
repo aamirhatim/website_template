@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+*{
+   /* border: 1px solid black; */
+}
+
+:root{
+  --font-color: #303030;
+  --video-height: 506px;
+  --video-width: 900px;
+}
+
+figure{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 80px 0;
+}
+
+figcaption{
+  font-size: 12pt;
+  font-weight: 500;
+  margin: 10px auto;
+  text-align: center;
+  width: 70%;
+}
+
+header{
+  align-items: center;
+  color: var(--font-color);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+#project-title{
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  padding: 50px 0;
+  width: 60%;
+}
+
+.header-video{
+  border: none;
+  height: var(--video-height);
+  margin: 30px 0;
+  width: var(--video-width);
+}
+
+#peep{
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+#skills-concepts-container{
+  min-width: 600px;
+  width: 45%;
+}
+
+#github-link{
+  display: flex;
+  justify-content: center;
+}
+
+#github-link a{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#github-link img{
+  width: 50px;
+}
+
+#skills-concepts{
+  display: flex;
+  justify-content: center;
+  width: 85%;
+}
+
+#skills, #concepts{
+  width: 50%;
+}
+
+#description{
+  margin: 0 auto;
+  min-width: 500px;
+  padding: 80px 0;
+  width: 50%;
+}
+
+.proj-img{
+  margin: 0 5%;
+  width: 90%;
+}
+
+.info-box{
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0,0,0,.2);
+  display: flex;
+  flex-direction: column;
+  font-size: 16pt;
+  margin: 50px auto;
+  padding: 25px;
+  width: 70%;
+}
+
+.info-box h4{
+  text-align: center;
+}
+
+.info-box img{
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.info-box-table{
+  table-layout: fixed;
+  text-align: center;
+  width: 90%;
+}
+
+.info-box-table th{
+  font-size: 30pt;
+}

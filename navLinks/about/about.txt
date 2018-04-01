@@ -1,0 +1,8 @@
+PHOTO NAME (must be in /img directory):
+sample_img3.jpg
+
+ABOUT TITLE:
+About Me
+
+DESCRIPTION:
+Write a little bit about yourself. Remember not to create new lines by pressing "Enter" but instead use the HTML break tag in-line with your text.
